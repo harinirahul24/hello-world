@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account for harini.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Press Harini</b></label>
     <input type="text" placeholder="Enter Ful Name" name="Name" id="Name" required>
     <br>
     
